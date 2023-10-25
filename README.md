@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=ava-smith&show_icons=true&theme=radical)
+![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=ava-smith&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ava-smith&layout=compact)
 
 <!--
 **ava-smith/ava-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
