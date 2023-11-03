@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](https://github.com/ava-smith/ava-smith/assets/134442065/65f27a6e-0711-4163-8067-5503665579eb)
 
 <!--
 **ava-smith/ava-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
