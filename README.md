@@ -1,5 +1,11 @@
 ![Ava Smith](https://github.com/ava-smith/ava-smith/assets/134442065/4e9fb511-09c3-4975-b88f-40fea8d64bb0)
 
+✨ About Me ✨
+- 🌱 I'm currently learning React!
+- 💻 I'm currently working on my personal portfolio
+- 📚 I'm reading Normal People by Sally Rooney
+- 📫 How to reach me: ava013005@gmail.com
+
 <!--
 **ava-smith/ava-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
