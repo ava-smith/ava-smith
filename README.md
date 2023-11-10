@@ -6,6 +6,8 @@
 - 📚 I'm reading Normal People by Sally Rooney
 - 📫 How to reach me: ava013005@gmail.com
 
+![Ava's GitHub stats](https://github-readme-stats.vercel.app/api?username=ava-smith&show_icons=true&theme=holi)
+
 <!--
 **ava-smith/ava-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
